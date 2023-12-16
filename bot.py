@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('6487771636:AAFGrr_Ede5w3tZ9hTpxlX-rgbQ9yWEriPU')
+bot = telebot.TeleBot('TOKEN')
 
 expenses_data = []
 
